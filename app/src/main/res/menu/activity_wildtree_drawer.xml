@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/home"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_manage1"
+            android:icon="@drawable/people"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_manage2"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/person"
+            android:title="My Account" />
+
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/shop"
+            android:title="Shop" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/packing"
+            android:title="Packing" />
+         <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/process"
+            android:title="Process" />
+
+    </group>
+
+    <item android:title="Policies Info">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/cancel"
+                android:title="Cancellation" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/pwd"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/nav_send1"
+                android:icon="@drawable/terms"
+                android:title="Terms" />
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/settings"
+                android:title="Settings" />
+
+
+
+        </menu>
+    </item>
+
+</menu>

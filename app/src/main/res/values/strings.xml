@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wildtree</string>
+    <string name="title_activity_wildtree">wildtree</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cart">cart</string>
+    <string name="search_hint">hint</string>
+    <string name="app_label">label</string>
+    <string name="action_search">Search</string>
+    <string name="cancellation">Cancellation &amp;  Exchange Policy</string>
+    <string name="title_activity_contact_us">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
